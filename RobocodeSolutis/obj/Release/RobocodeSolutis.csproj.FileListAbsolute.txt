@@ -1,0 +1,8 @@
+C:\Users\Luis Felipe\source\repos\RobocodeSolutis\RobocodeSolutis\bin\Release\LF_Explex_1.0.dll
+C:\Users\Luis Felipe\source\repos\RobocodeSolutis\RobocodeSolutis\bin\Release\LF_Explex_1.0.pdb
+C:\Users\Luis Felipe\source\repos\RobocodeSolutis\RobocodeSolutis\bin\Release\robocode.dll
+C:\Users\Luis Felipe\source\repos\RobocodeSolutis\RobocodeSolutis\bin\Release\robocode.xml
+C:\Users\Luis Felipe\source\repos\RobocodeSolutis\RobocodeSolutis\obj\Release\RobocodeSolutis.csproj.CoreCompileInputs.cache
+C:\Users\Luis Felipe\source\repos\RobocodeSolutis\RobocodeSolutis\obj\Release\RobocodeSolutis.csproj.CopyComplete
+C:\Users\Luis Felipe\source\repos\RobocodeSolutis\RobocodeSolutis\obj\Release\LF_Explex_1.0.dll
+C:\Users\Luis Felipe\source\repos\RobocodeSolutis\RobocodeSolutis\obj\Release\LF_Explex_1.0.pdb

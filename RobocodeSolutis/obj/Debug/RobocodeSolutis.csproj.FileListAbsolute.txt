@@ -1,0 +1,9 @@
+C:\Users\Luis Felipe\source\repos\RobocodeSolutis\RobocodeSolutis\bin\Debug\LF_Explex_1.0.dll
+C:\Users\Luis Felipe\source\repos\RobocodeSolutis\RobocodeSolutis\bin\Debug\LF_Explex_1.0.pdb
+C:\Users\Luis Felipe\source\repos\RobocodeSolutis\RobocodeSolutis\bin\Debug\robocode.dll
+C:\Users\Luis Felipe\source\repos\RobocodeSolutis\RobocodeSolutis\bin\Debug\robocode.xml
+C:\Users\Luis Felipe\source\repos\RobocodeSolutis\RobocodeSolutis\obj\Debug\RobocodeSolutis.csproj.CoreCompileInputs.cache
+C:\Users\Luis Felipe\source\repos\RobocodeSolutis\RobocodeSolutis\obj\Debug\RobocodeSolutis.csproj.CopyComplete
+C:\Users\Luis Felipe\source\repos\RobocodeSolutis\RobocodeSolutis\obj\Debug\LF_Explex_1.0.dll
+C:\Users\Luis Felipe\source\repos\RobocodeSolutis\RobocodeSolutis\obj\Debug\LF_Explex_1.0.pdb
+C:\Users\Luis Felipe\source\repos\RobocodeSolutis\RobocodeSolutis\obj\Debug\RobocodeSolutis.csprojAssemblyReference.cache
